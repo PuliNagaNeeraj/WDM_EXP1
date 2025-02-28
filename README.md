@@ -62,7 +62,7 @@ rainy,75.0,80.0,false,yes
 ![Screenshot 2025-02-22 142051](https://github.com/user-attachments/assets/6dbc1d03-cefe-4b7a-b129-437df26cb92f)
 
 
-### PREPROCESSING
+#### PREPROCESSING
 ## Procedure:
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
